@@ -1,2 +1,6 @@
-# facebook-login-nestjs-example
-An end to end example of how to make facebook login works with NestJS
+# A working end to end example of Facebook login using NestJS
+
+Replace with your Facebook App ID & Secret :
+
+- /frontend/src/components/Logins.js
+- /backend/src/auth/facebook.strategy.ts
